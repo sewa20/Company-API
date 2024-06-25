@@ -1,9 +1,9 @@
 ## Company-API
-This is a sample of an API Project to showcase staff members of a company with end points of GET ,POST, PUT And DELETE
+This is a sample of an API Project to showcase staff members of a company with endpoints of GET, POST, PUT, And DELETE
 
 # Company-API
 
-Welcome to Company-API, a simple and robust API for managing and retrieving a Company's Workers data.
+Welcome to Company-API, a simple and robust API for managing and retrieving a Company's Workers' data.
 
 ## Table of Contents
 
