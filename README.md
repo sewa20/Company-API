@@ -1,9 +1,9 @@
 ## Company-API
-This is a sample API Project to showcase staff members of a company with end points of GET ,POST, PUT And DELETE
+This is a sample of an API Project to showcase staff members of a company with end points of GET ,POST, PUT And DELETE
 
-# MyAPI
+# Company-API
 
-Welcome to MyAPI, a simple and robust API for managing and retrieving data.
+Welcome to Company-API, a simple and robust API for managing and retrieving a Company's Workers data.
 
 ## Table of Contents
 
@@ -22,7 +22,7 @@ Welcome to MyAPI, a simple and robust API for managing and retrieving data.
 
 ## Description
 
-MyAPI is a RESTful API designed to provide a simple interface for managing and retrieving data. The API supports basic CRUD operations and is built with scalability and simplicity in mind.
+Company-API is a RESTful API designed to provide a simple interface for managing and retrieving data. The API supports basic CRUD operations and is built with scalability and simplicity in mind.
 
 ## Features
 
@@ -35,7 +35,7 @@ MyAPI is a RESTful API designed to provide a simple interface for managing and r
 
 ## Installation
 
-To get started with MyAPI, follow these steps:
+To get started with Company-API, follow these steps:
 
 1. Clone the repository:
 
