@@ -40,5 +40,5 @@ To get started with Company-API, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/MyAPI.git
+   git clone https://github.com/yourusername/Company-API.git
 
